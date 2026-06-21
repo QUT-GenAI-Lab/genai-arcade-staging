@@ -44,7 +44,7 @@ Most of the time, the model will choose "cat," but it might also pick "dog" or e
 ---
 
 <iframe 
-	src="https://autumnssuns.github.io/genai-microservices/widgets/understanding/word-by-word?embed=true" 
+	src="https://widgets.genai-arcade.net/widgets/understanding/word-by-word?embed=true" 
 	title="Next Word Predictor" 
 	style="border:0;width:100%;height:700px;"
 ></iframe>
