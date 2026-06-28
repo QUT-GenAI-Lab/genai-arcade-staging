@@ -41,12 +41,7 @@ You'll likely find that the model resists — but maybe not always. And that's t
 
 ---
 
-<script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/5.23.3/gradio.js"
-></script>
-
-<gradio-app src="https://qut-genailab-milkless.hf.space"></gradio-app>
+<iframe src="https://widgets.genai-arcade.net/widgets/values/milkless?embed=true" title="Milkless" style="border:0;width:100%;height:675px;"></iframe>
 
 ---
 
