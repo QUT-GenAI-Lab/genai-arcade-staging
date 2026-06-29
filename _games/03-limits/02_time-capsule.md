@@ -20,12 +20,7 @@ That's what this widget demonstrates. You'll ask a question, and the widget will
 
 ---
 
-<script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/5.23.3/gradio.js"
-></script>
-
-<gradio-app src="https://qut-genailab-knowledge-cutoff.hf.space"></gradio-app>
+<iframe src="https://widgets.genai-arcade.net/widgets/dev/placeholder?embed=true" title="Unavailable" style="border:0;width:100%;height:280px;"></iframe>
 
 Compare the answers. What do they know? What do they miss? How do their responses change as you move through time?
 

@@ -28,12 +28,7 @@ This "neutral point" is like taking every image the model has ever seen and find
 
 ---
 
-<script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/5.23.3/gradio.js"
-></script>
-
-<gradio-app src="https://qut-genailab-neutral-sd.hf.space"></gradio-app>
+<iframe src="https://widgets.genai-arcade.net/widgets/dev/placeholder?embed=true" title="Unavailable" style="border:0;width:100%;height:280px;"></iframe>
 
 
 ---

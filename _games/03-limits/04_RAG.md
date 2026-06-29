@@ -48,12 +48,7 @@ Also consider how suitable the LLM would be for interpreting the injected texts 
 
 Below is a simple RAG widget which takes the first 5 search results from Google and injects them into each user input. The non-RAG LLM response is on the left, while the RAG response is on the right. Have a play, and note the differences in response, where the RAG seems to be helping, or more interestingly where the RAG seems to be hindering!
 
-<script
-	type="module"
-	src="https://gradio.s3-us-west-2.amazonaws.com/5.23.3/gradio.js"
-></script>
-
-<gradio-app src="https://qut-genailab-widget-rag.hf.space"></gradio-app>
+<iframe src="https://widgets.genai-arcade.net/widgets/dev/placeholder?embed=true" title="Unavailable" style="border:0;width:100%;height:280px;"></iframe>
 **Note:** the raw RAG input is purposefully exposed to you in this widget for transparency - in real deployments, the chat history will look identical!
 
 ---
