@@ -43,10 +43,9 @@ The chatbot was designed to be used in the classroom, with a responsible adult s
 **Ask a trusted adult before following any chatbot advice.***
 
 ---
-How AI chatbots are designed influences how they are used. If AI chatbots default to positivity, support, or affirmation, this could lead to problematic perspectives, beliefs, or ideas being reinforced. For instance, when a user interacts with an AI chatbot to provide personal support ([something that is increasingly common in young people](https://theconversation.com/teens-are-turning-to-ai-chatbots-for-emotional-support-heres-how-to-keep-kids-safe-283651)), the chatbot may only validate instead of challenge their problematic perspectives. Defaulting to this validation might also lead to a false sense of social and emotional connection which might reduce users' agency. How values are built into these systems and what they mean for users remains an important but open question.
-
----
 ## **Reflections**
+
+How AI chatbots are designed influences how they are used. If AI chatbots default to positivity, support, or affirmation, this could lead to problematic perspectives, beliefs, or ideas being reinforced. For instance, when a user interacts with an AI chatbot to provide personal support ([something that is increasingly common in young people](https://theconversation.com/teens-are-turning-to-ai-chatbots-for-emotional-support-heres-how-to-keep-kids-safe-283651)), the chatbot may only validate instead of challenge their problematic perspectives. Defaulting to this validation might also lead to a false sense of social and emotional connection which might reduce users' agency. How values are built into these systems and what they mean for users remains an important but open problem. Here are some questions to help guide some reflection on this topic:
 
 * What makes a chatbot sycophantic?
 * Why would a chatbot be designed to be sycophantic? Why not?
