@@ -23,7 +23,7 @@ Here's a short video demonstrating AI chatbot 'sycophancy'.
 
 ---
 ## **What You'll Do**
-This widget is an adapted version of a voice-based Chatbot used for research in collaboration with the [Centre for the Digital Child](https://digitalchild.org.au/). There are two chatbot "modes" with different system prompts - one chatbot that "always agrees" and one that is "honest". Some things to think about while playing with the widget:
+This widget is an adapted version of a voice-based chatbot used for conducting accessible co-design research with young people (ages 6-10) in collaboration with the [Centre for the Digital Child](https://digitalchild.org.au/). We created this specifically to work with younger people that had not yet learned to interact with text-based interfaces. There are two chatbot "modes" with different system prompts - one chatbot that "always agrees" and one that is "honest". Some things to think about while playing with the widget:
 
 * How do the chatbot's responses change when you switch between 'always agree' and 'careful' mode?
 * Do you think it’s a good idea to trust a chatbot that always agrees?
