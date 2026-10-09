@@ -8,9 +8,11 @@ summary: "This is a voice-enabled chatbot designed to demonstrate the difference
 
 > When you're talking to a chatbot, does it always have your best interests in mind, or is it simply trying to keep you happy?
 
-If you think about the personal questions we ask our friends, partners, and/or family daily, generally the closer the relationship, the more honest they are. Asking an acquaintance or stranger if your hair looks good today, or if your startup idea is worth pursuing, would generally get you a response that was more focused on maintaining decorum than being accurate.
+If you think about the personal questions we ask our friends, partners, and/or family daily, generally the closer the relationship, the more honest they are. Asking an acquaintance or stranger if your hair looks good today, or if your new business idea is worth pursuing, might get you a polite response rather than an accurate one.
 
-When it comes to chatbots - where some can be designed to be as neutral as possible, others are designed to be friendly in the same way a stranger or acquaintance would be, and with that, comes the risk of dishonesty. In fact, the Oxford Internet Institute recently found that [friendlier chatbots could be up to 40% more likely to agree with a user's incorrect beliefs](https://www.ox.ac.uk/news/2026-04-29-friendly-ai-chatbots-make-more-mistakes-and-tell-people-what-they-want-to-hear). This phenomenon of an LLM-powered chatbot 'sucking up' to users, even if users have bad ideas, is called AI chatbot 'sycophancy'.
+When friends give us honest advice they can sometimes tell us things we don’t want to hear. This might be surprising, disappointing, or even hurtful; but generally, we expect our friends to provide constructive criticism rather than just affirming our beliefs. Honesty, accuracy, and politeness sometimes conflict with each other. How we negotiate conflicting values in our personal lives is one thing, but navigating these values in our interactions with AI chatbots presents new challenges.
+
+Some chatbots are designed to be as neutral as possible, others to be adversarial and challenging, but sometimes these applications are designed to be a little too friendly, positive, and supportive in ways that have led to them being branded as dishonest. The Oxford Internet Institute recently found that [friendlier chatbots could be up to 40% more likely to agree with a user's incorrect beliefs](https://www.ox.ac.uk/news/2026-04-29-friendly-ai-chatbots-make-more-mistakes-and-tell-people-what-they-want-to-hear). This phenomenon of an LLM-powered chatbot 'sucking up' to users, even if users have bad ideas, is called AI chatbot 'sycophancy'.
 
 Here's a short video demonstrating AI chatbot 'sycophancy'.
 <iframe
@@ -39,8 +41,11 @@ This widget is an adapted version of a voice-based Chatbot used for research in 
 The chatbot was designed to be used in the classroom, with a responsible adult supervising to prevent inappropriate outputs. Children accessing this website should find a trusted adult before using this chatbot. More details on intended uses and our approach to chatbot risks are available in our [paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7203699) on the pilot workshop for this chatbot, and in [chatbot documentation](https://docs.google.com/document/d/1gr8gbYlA1BVHzn1Kchv-1YiG_DpniTX6gZBqagQEM7g/edit?usp=sharing). You can contact us [here](mailto:genailab@qut.edu.au) to share your thoughts or report any concerns.
 
 ***Ask a trusted adult before following any chatbot advice.***
+---
 
+How AI chatbots are designed influences how they are used. If AI chatbots are default to positivity, support, or affirmation, this could lead to problematic perspectives, beliefs, or ideas being reinforced. For instance, if a user is interacting with an AI chatbot to provide personal support (something that is increasingly common in young people), the chatbot may only validate instead of challenging their perspectives. Defaulting to this validation might also produce psychological feedback loops such as false social and emotional connection or for engagement rather efficiency that might reduce the agency of users. How values are built into these systems and what they mean for users remains an important but open question.
 
+---
 ## **Reflections**
 
 * What makes a chatbot sycophantic?
