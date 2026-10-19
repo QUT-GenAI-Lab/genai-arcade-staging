@@ -28,7 +28,7 @@ This "neutral point" is like taking every image the model has ever seen and find
 
 ---
 
-<iframe src="https://widgets.genai-arcade.net/widgets/dev/placeholder?embed=true" title="Unavailable" style="border:0;width:100%;height:280px;"></iframe>
+<iframe src="https://d30wuokk9b26bz.cloudfront.net/widgets/training/average-internet?embed=true" title="The Average Internet" width="100%" height="700" loading="lazy" data-genai-arcade-embed style="display:block;border:0"></iframe>
 
 ---
 
