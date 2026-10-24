@@ -28,12 +28,7 @@ This widget is an adapted version of a voice-based chatbot used for conducting a
 * How do the chatbot's responses change when you switch between 'always agree' and 'careful' mode?
 * Do you think it’s a good idea to trust a chatbot that always agrees?
 
-<iframe
-    style="width: 100%; aspect-ratio: 1; zoom: 75%;"
-	src="https://qut-genailab-groq-voicechat-demo.hf.space"
-	frameborder="0"
-	allow="microphone"
-></iframe>
+<iframe src="https://d30wuokk9b26bz.cloudfront.net/widgets/values/spot-the-sycophant?embed=true" title="Spot the Sycophant" width="100%" height="640" loading="lazy" allow="microphone" data-genai-arcade-embed style="display:block;border:0"></iframe>
 
 
 
